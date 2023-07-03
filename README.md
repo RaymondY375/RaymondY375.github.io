@@ -7,7 +7,7 @@
 
   This website is fully responsive personal portfolio, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="about:blank"><strong>➥ Live Demo</strong></a>
+  <a href="https://raymondy375.github.io/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
